@@ -1,0 +1,49 @@
+# ==========================================
+# Genetic Variant Pathogenicity Prediction
+# ==========================================
+
+# ---------- Core Python / Data ----------
+numpy
+pandas
+scipy
+
+# ---------- Machine Learning ----------
+scikit-learn
+xgboost
+lightgbm
+
+# ---------- Visualization ----------
+matplotlib
+seaborn
+plotly
+
+# ---------- Bioinformatics ----------
+biopython
+
+# ---------- Variant / Genomic Data ----------
+cyvcf2
+pysam
+
+# ---------- Statistical Analysis ----------
+statsmodels
+
+# ---------- Dimensionality Reduction ----------
+umap-learn
+
+# ---------- Explainable AI ----------
+shap
+
+# ---------- Model Persistence ----------
+joblib
+
+# ---------- Jupyter / Development ----------
+jupyter
+ipykernel
+notebook
+
+# ---------- Progress / Utilities ----------
+tqdm
+pyyaml
+
+# ---------- Experiment Tracking ----------
+mlflow
